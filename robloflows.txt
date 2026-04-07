@@ -1,0 +1,18 @@
+robloflows
+etiquetar .- anotar imagenes
+best para pisco  deliena solo y dibuja solo pisco
+linea 17: segundo modelo
+
+mencionar caso de estudio : detectar 
+extensión para descargar imágenes
+luego subirlas a roboflow :https://roboflow.com/ donde con una api 
+para pasar las imágenes que etiquetadas en roboflow al colab
+
+
+
+desarrollo de aplicativo
+pruebas
+
+
+
+python -m pip install ultralytics 
